@@ -2,7 +2,7 @@ name: Banking App CI
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
   workflow_dispatch:
 
 permissions:
